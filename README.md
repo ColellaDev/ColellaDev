@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/ColellaDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=colelladev&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colelladev&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=colelladev&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colelladev&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
