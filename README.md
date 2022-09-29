@@ -1,4 +1,4 @@
-## Olá, eu sou o Marcos Colella Desenvolvedor Front-End
+## Olá, eu sou o Marcos Colella, Desenvolvedor Front-End
 
 <div align="center">
   <a href="https://github.com/ColellaDev">
