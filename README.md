@@ -1,4 +1,9 @@
-## Olá, eu sou o Marcos Colella, Desenvolvedor Front-End
+<div align="center">
+  
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=6AFFBD&random=false&width=435&lines=Ol%C3%A1!+Me+chamo+Marcos+Colella;Sou+Desenvolvedor+Front+End)](https://git.io/typing-svg)
+
+</div>
+
 
 <div align="center">
   <a href="https://github.com/ColellaDev">
