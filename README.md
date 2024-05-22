@@ -12,12 +12,12 @@
 </div>
     
 ## Skills 
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents,vite,git,github,nodejs,sqlite">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,styledcomponents,vite,git,github,nodejs,sqlite">
   <br>
 
 ## Em progesso
 
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind,jest">
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,jest">
   <br>
 
 ## Contato
