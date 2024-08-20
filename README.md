@@ -15,11 +15,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,styledcomponents,vite,git,github,nodejs,sqlite">
   <br>
 
-## Em progesso
-
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,jest">
-  <br>
-
 ## Contato
 <div>
   <a href="https://www.linkedin.com/in/marcos-colella-esteves-952a3866/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
