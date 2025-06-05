@@ -12,7 +12,7 @@
 </div>
     
 ## Skills 
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,styledcomponents,vite,git,github,nodejs,sqlite">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,styledcomponents,vite,git,github,nodejs,sqlite">
   <br>
 
 ## Contato
