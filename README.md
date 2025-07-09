@@ -11,7 +11,7 @@
 </div>
     
 ## Skills 
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,styledcomponents,materialui,nodejs,postgresql,git,github,vite,figma">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,styledcomponents,materialui,prisma,nodejs,postgresql,git,github,vite,figma">
   <br>
 
 ## Contato
